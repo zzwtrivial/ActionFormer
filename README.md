@@ -54,7 +54,7 @@ python ./eval.py ./configs/thumos_i3d.yaml ./ckpt/thumos_i3d_reproduce
 
 **[Optional] Evaluating Our Pre-trained Model**
 
-We also provide a pre-trained model for THUMOS 14. The model with all training logs can be downloaded from [this BaiduYun link](https://pan.baidu.com/s/1KsVWVQ6RF9mg87c0YUwH9Q?pwd=fknf). To evaluate the pre-trained model, please follow the steps listed below.
+We also provide a pre-trained model for THUMOS 14. The model with all training logs can be downloaded from [this BaiduYun link](https://pan.baidu.com/s/1Nj6haq2iqQuGNiOfCg--ag?pwd=2qhg). To evaluate the pre-trained model, please follow the steps listed below.
 
 * Create a folder *./pretrained* and unpack the file under *./pretrained* (or elsewhere and link to *./pretrained*).
 * The folder structure should look like
