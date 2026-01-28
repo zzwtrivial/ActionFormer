@@ -13,7 +13,7 @@ our approach outperforms state-of-the-art methods, particularly in challenging s
 
 ## To Reproduce Our Results on THUMOS14
 **Download Features and Annotations**
-* Download *thumos.zip* (`md5sum 375f76ffbf7447af1035e694971ec9b2`) from [this link](https://www.crcv.ucf.edu/THUMOS14/download.html).
+* Download *thumos.zip* (`md5sum 375f76ffbf7447af1035e694971ec9b2`) from [this BaiduYun link](https://pan.baidu.com/s/1Nj6haq2iqQuGNiOfCg--ag?pwd=2qhg).
 * The file includes I3D features, action annotations in json format (similar to ActivityNet annotation format), and external classification scores.
 
 **Details**: The features are extracted from two-stream I3D models pretrained on Kinetics using clips of `16 frames` at the video frame rate (`~30 fps`) and a stride of `4 frames`. This gives one feature vector per `4/30 ~= 0.1333` seconds.
